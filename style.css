@@ -48,6 +48,10 @@ footer {
     margin-top: auto; /* Empuja el footer al final del contenido */
   }
 
+  .amber-text.text-accent-3 {
+    color: #412AEA !important;
+}
+
 .user-view{
     background-color: var(--navbar-color);
 }
