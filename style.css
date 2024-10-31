@@ -11,8 +11,9 @@
 }
 
 :root {
-    --navbar-color: #3c29e6;
-    --hover-color: #ffc400;
+    --navbar-color: #5a5656;
+    --navbar-color-texto: #432DEA;
+    --hover-color: #EB1405;
     --body-color: rgba(255, 255, 255, 0.8);
     --boxshadow-color: 0 2px 5px rgba(0, 0, 0, 0.1);
     --Trans-02: all 0.2s ease;
@@ -26,7 +27,7 @@ html, body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  background: url('../img/fondo.jpg') no-repeat center center fixed;
+  background: #432DEA;
   background-size: cover;
 }
 
